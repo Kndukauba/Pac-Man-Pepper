@@ -1,4 +1,4 @@
-# Pac-Man & Pepper Game
+# The Pac-Man & Pepper Game
 
 **Pac-Man & Pepper** is a fast-paced two-player cooperative twist on the classic Pac-Man maze game, built using Python and Pygame. Play together, collect points, avoid hazards, and survive with shared health bars in a colorful, interactive maze.
 
@@ -41,7 +41,7 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/user-attachments/assets/af3f5603-b71f-473d-afaa-e14ca8bd16c8)
+![Screenshot 2025-06-30 090050](https://github.com/user-attachments/assets/4ed59b2c-7e83-4e16-bf39-ce71e30b340c)
 
 ---
 
